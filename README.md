@@ -19,8 +19,6 @@
 
 [![](https://komarev.com/ghpvc/?username=hafidd12&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<p data-importer="text" align="left">Play games with me</p>
-
 ###
 
 <picture data-importer="pacman">
