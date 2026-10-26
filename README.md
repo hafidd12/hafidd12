@@ -4,7 +4,14 @@
 
 #### 🌐 Socials:
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/hafiddnugroho?srtk=MXVmNHcyMmM1MGEweQ==)
+<div data-importer="socials" align="left">
+    <a href="https://www.instagram.com/hafiddnugroho?srtk=MXVmNHcyMmM1MGEweQ==" target="_blank">
+        <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+    </a>
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+</div>
+
+###
 
 ###
 
