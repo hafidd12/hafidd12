@@ -1,3 +1,5 @@
+![hafidd12](/img/github-header-banner.png)
+
 ### Hi 👋! My name is Hafid Dwi Nugroho
 
 #### 🌐 Socials:
